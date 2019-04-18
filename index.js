@@ -1,3 +1,4 @@
+
 function theBeatlesPlay(players, instruments){        //first function
 
 
@@ -17,15 +18,15 @@ function johnLennonFacts(){
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"];
   
-  var newFaxxxx = [];
+  var newFacts = [];
   
   var i = 0;
   while (i < facts.length){
-    newFaxxxx.push(facts[i] + "!!!");
+    newFacts.push(facts[i] + "!!!");
     i++;
   }
   
-  return newFaxxxx;
+  return newFacts;
   
   }
 
